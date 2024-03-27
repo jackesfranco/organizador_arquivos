@@ -1,5 +1,3 @@
-
-https://github.com/jackesfranco/organizador_arquivos/assets/160428240/9c44fd7c-a801-4ab1-a8d8-65fc563a7521
 # Projeto de um organizador de arquivos local
 Neste projeto eu utilizo o Python para criar um arquivo executável em que organiza arquivos localmente, a partir da extensão do arquivo.
 Exemplo: a pasta downloads do computador costuma encher de diversos tipos de arquivos, ao executar o organizador_local.exe ele irá separar e agrupar os arquivos em pastas, seguindo como referência a extensão do arquivo.
