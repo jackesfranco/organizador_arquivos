@@ -6,7 +6,7 @@ Exemplo: a pasta downloads do computador costuma encher de diversos tipos de arq
 
 ## ✔️ Tecnologias utilizadas
 
-- ``Python`` (utilizado pyinstaller para gerar o arquivo .exe)
+- ``Python``
 
 <br/>
 
